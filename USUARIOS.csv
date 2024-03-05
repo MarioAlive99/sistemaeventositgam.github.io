@@ -1,0 +1,5 @@
+numero_control,nombre,tipo_usuario,carrera,semestre,grupo,correo,password,fecha,limite
+123456,Juan Pérez,maestro,Ingeniería Civil,universal,universal,juan@example.com,123456,16/05/2023 00:01,1
+987654,María López,maestro,Medicina,universal,universal,maria@example.com,password123,17/05/2023 00:01,1
+234567,Carlos Ramírez,maestro,Arquitectura,universal,universal,carlos@example.com,987654,18/05/2023 00:01,1
+876543,Ana García,maestro,Psicología,universal,universal,ana@example.com,abc123,19/05/2023 00:01,
